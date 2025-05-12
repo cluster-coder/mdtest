@@ -7,6 +7,12 @@
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
 
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 ---
 
 ---
